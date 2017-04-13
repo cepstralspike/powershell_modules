@@ -1,3 +1,10 @@
+#
+# cepstralspike WindowsPowershellProfile
+#
+archive/
+2017*
+github/
+
 #################
 ## Eclipse
 #################
